@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Work\\Zombie Arena\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2CEFB2-BF58-4D02-9E71-31AE4ED60D4C}|Zombie Arena.vcxproj|D:\\Work\\Zombie Arena\\Zombie Arena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F2CEFB2-BF58-4D02-9E71-31AE4ED60D4C}|Zombie Arena.vcxproj|solutionrelative:Zombie Arena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zombie Arena.cpp",
+              "DocumentMoniker": "D:\\Work\\Zombie Arena\\Zombie Arena.cpp",
+              "RelativeDocumentMoniker": "Zombie Arena.cpp",
+              "ToolTip": "D:\\Work\\Zombie Arena\\Zombie Arena.cpp",
+              "RelativeToolTip": "Zombie Arena.cpp",
+              "ViewState": "AQIAAEgCAAAAAAAAAAAAAJkCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T06:48:07.925Z",
+              "EditorCaption": ""
             }
           ]
         }
